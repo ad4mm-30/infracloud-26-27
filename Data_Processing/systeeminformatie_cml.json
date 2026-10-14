@@ -1,0 +1,14 @@
+{
+    "computernaam": "Adam",
+    "computermodel": "AMD64",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "aantal_fysieke_cpu_cores": 8,
+    "maximale_cpu_frequentie_mhz": 2000.0,
+    "totale_hoeveelheid_ram_gb": 15.34,
+    "bestandssysteem_opslag": "NTFS",
+    "opslagcapaciteit_gb": 475.79,
+    "mac_adres_primaire_nic": "28-2E-89-1C-D0-98",
+    "ipv4_adres_primaire_nic": "172.20.10.2",
+    "ipv6_adres_primaire_nic": "2a02:1808:1a6:f854:d9e2:7614:b3a2:fe83",
+    "ipv6_link_local_adres_primaire_nic": "fe80::d214:56b0:11db:7f16"
+}

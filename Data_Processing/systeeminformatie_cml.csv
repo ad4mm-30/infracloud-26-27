@@ -1,0 +1,2 @@
+﻿computernaam,computermodel,processor,aantal_fysieke_cpu_cores,maximale_cpu_frequentie_mhz,totale_hoeveelheid_ram_gb,bestandssysteem_opslag,opslagcapaciteit_gb,mac_adres_primaire_nic,ipv4_adres_primaire_nic,ipv6_adres_primaire_nic,ipv6_link_local_adres_primaire_nic
+Adam,AMD64,"AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",8,2000.0,15.34,NTFS,475.79,28-2E-89-1C-D0-98,172.20.10.2,2a02:1808:1a6:f854:d9e2:7614:b3a2:fe83,fe80::d214:56b0:11db:7f16
