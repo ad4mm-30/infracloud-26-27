@@ -1,0 +1,4 @@
+﻿computernaam,computermodel,processor,aantal_fysieke_cpu_cores,maximale_cpu_frequentie_mhz,totale_hoeveelheid_ram_gb,bestandssysteem_opslag,opslagcapaciteit_gb,mac_adres_primaire_nic,ipv4_adres_primaire_nic,ipv6_adres_primaire_nic,ipv6_link_local_adres_primaire_nic
+Adam,AMD64,"AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",8,2000.0,15.34,NTFS,475.79,28-2E-89-1C-D0-98,172.20.10.2,2a02:1808:1a6:f854:d9e2:7614:b3a2:fe83,fe80::d214:56b0:11db:7f16
+labvm,x86_64,x86_64,2,N/A,7.78,ext4,30.14,08:00:27:e9:3d:e6,10.0.2.15,fd17:625c:f037:2:a00:27ff:fee9:3de6,fe80::a00:27ff:fee9:3de6
+ubuntu,x86_64,N/A,1,0.0,7.25,ext4,24.44,08:00:27:17:8b:44,10.0.2.15,fd17:625c:f037:2:a00:27ff:fe17:8b44,fe80::a00:27ff:fe17:8b44
